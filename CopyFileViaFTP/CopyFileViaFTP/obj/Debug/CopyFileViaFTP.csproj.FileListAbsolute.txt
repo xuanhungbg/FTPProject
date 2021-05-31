@@ -1,0 +1,10 @@
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\bin\Debug\CopyFileViaFTP.exe.config
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\bin\Debug\CopyFileViaFTP.exe
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\bin\Debug\CopyFileViaFTP.pdb
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.csprojAssemblyReference.cache
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.Form1.resources
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.Properties.Resources.resources
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.csproj.GenerateResource.cache
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.csproj.CoreCompileInputs.cache
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.exe
+C:\Users\xuanh\source\repos\CopyFileViaFTP\CopyFileViaFTP\obj\Debug\CopyFileViaFTP.pdb
